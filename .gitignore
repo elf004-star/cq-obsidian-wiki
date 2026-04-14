@@ -4,8 +4,6 @@
 # ============================================================
 
 # --- Obsidian config & state ---
-.obsidian/
-!.obsidian/
 .obsidian/workspace.json
 workspace-mobile.json
 
