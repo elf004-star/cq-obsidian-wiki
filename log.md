@@ -28,11 +28,14 @@
 ## [2026-04-14] ingest | 更新法律条文全文入库
 - 批量更新5部法律条文原始文本（原有文件仅为来源链接，现已替换为完整正文）
 - 公司法（2023修订）：raw/articles/company-law-2023.md（13KB）
-- 民法典（2020）：raw/articles/civil-code-2020.md（17KB）
-- 商标法（2019修正）：raw/articles/trademark-law-2024.md（8KB）
-- 著作权法（2020修正）：raw/articles/copyright-law-2020.md（7KB）
-- 消费者权益保护法实施条例（2024）：raw/articles/consumer-protection-law-implementation-2024.md（7KB）
-- 宪法（2018）原文未变动（已是完整正文）
+
+## [2026-04-14] ingest | 选举法、香港基本法、民族区域自治法、国务院组织法（2024修订）
+- 收录4部新法律原始文本至 raw/articles/
+- 创建 entities/hk-basic-law.md（香港基本法实体页）
+- 创建 concepts/election-law.md（选举法概念页）
+- 创建 concepts/regional-ethnic-autonomy-law.md（民族区域自治法概念页）
+- 更新 entities/state-council.md（新增2024年组织法内容）
+- 更新 index.md、log.md
 
 ## [2026-04-14] create | 修复断链 — 新增2个缺失页面
 - Created: entities/state-commission-supervision.md — 国家监察委员会（2018年设立，与检察院合署）
