@@ -5,8 +5,8 @@
 
 # --- Obsidian config & state ---
 .obsidian/
-!.obsidian/workspace.json
-workspace-mobile.json
+!.obsidian/
+.obsidian/workspace.json
 
 # --- System files ---
 .DS_Store
