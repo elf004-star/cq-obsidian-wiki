@@ -7,6 +7,7 @@
 .obsidian/
 !.obsidian/
 .obsidian/workspace.json
+workspace-mobile.json
 
 # --- System files ---
 .DS_Store
