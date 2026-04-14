@@ -37,6 +37,11 @@
 - 更新 entities/state-council.md（新增2024年组织法内容）
 - 更新 index.md、log.md
 
+## [2026-04-14] ingest | 反不正当竞争法（2025年修订）
+- 收录 raw/articles/anti-unfair-competition-law-2025.md（最高检来源，5章43条）
+- 创建 concepts/anti-unfair-competition-law.md（概念页）
+- 更新 index.md、log.md
+
 ## [2026-04-14] create | 修复断链 — 新增2个缺失页面
 - Created: entities/state-commission-supervision.md — 国家监察委员会（2018年设立，与检察院合署）
 - Created: concepts/procuratorate-system.md — 检察系统完整体系（公诉、法律监督、公益诉讼）
