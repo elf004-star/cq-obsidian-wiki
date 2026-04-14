@@ -5,8 +5,7 @@
 
 # --- Obsidian config & state ---
 .obsidian/
-.obsidian.json
-.obsidian.plugins.json
+!.obsidian/workspace.json
 workspace-mobile.json
 
 # --- System files ---
@@ -39,11 +38,8 @@ Session.vim
 __pycache__/
 *.py[cod]
 *.pyc
-venv/
 .venv/
-env/
-.env.local
-.env.*.local
+venv/
 *.egg-info/
 dist/
 build/
@@ -64,6 +60,7 @@ yarn-error.log*
 # --- IDE ---
 .vscode/
 .idea/
+.claude/
 *.iml
 *.ipr
 *.iws
@@ -73,9 +70,7 @@ yarn-error.log*
 *.sublime-*
 
 # --- Image caches (Obsidian image auto生成) ---
-assets/
-# 若 assets/ 放的是手动上传的图片，取消上方注释，保留版本控制
-# 若 assets/ 全是自动生成的缓存图片，注释掉此行
+# assets/ — 保留版本控制，手动上传的图片需要跟踪
 
 # --- Log & archive files ---
 log-*.md
