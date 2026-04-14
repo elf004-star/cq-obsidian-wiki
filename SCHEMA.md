@@ -44,7 +44,7 @@ sources: [raw/articles/source-name.md]
 每个值得关注的实体单独一页，包含：
 - 概述 / 基本信息
 - 关键事实与日期
-- 与其他实体的关系（使用 [[wikilinks]]）
+- 与其他实体的关系（使用 `[[wikilinks]]`）
 - 来源引用
 
 ## Concept Pages（概念页）
@@ -52,7 +52,7 @@ sources: [raw/articles/source-name.md]
 - 定义与解释
 - 当前法律状态与适用范围
 - 争议问题或学术讨论
-- 相关概念（[[wikilinks]]）
+- 相关概念（`[[wikilinks]`]）
 
 ## Comparison Pages（对比页）
 并排分析，包含：

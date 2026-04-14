@@ -67,6 +67,7 @@ yarn-error.log*
 .classpath
 .settings/
 *.sublime-*
+CLAUDE.md
 
 # --- Image caches (Obsidian image auto生成) ---
 # assets/ — 保留版本控制，手动上传的图片需要跟踪
