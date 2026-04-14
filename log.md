@@ -47,6 +47,11 @@
 - 创建 concepts/individual-income-tax-law.md（概念页）
 - 更新 index.md、log.md
 
+## [2026-04-14] ingest | 土地管理法（2019年修正）
+- 收录 raw/articles/land-administration-law-2019.md（生态环境部来源，8章87条）
+- 创建 concepts/land-administration-law.md（概念页）
+- 更新 index.md、log.md
+
 ## [2026-04-14] create | 修复断链 — 新增2个缺失页面
 - Created: entities/state-commission-supervision.md — 国家监察委员会（2018年设立，与检察院合署）
 - Created: concepts/procuratorate-system.md — 检察系统完整体系（公诉、法律监督、公益诉讼）
