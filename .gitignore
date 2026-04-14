@@ -96,5 +96,5 @@ _archive/**/*
 *.7z
 
 # --- Obsidian plugins (可选择) ---
-plugins/
-# 如需保留插件配置，注释掉此行
+.obsidian/plugins/*
+!.obsidian/plugins/dataview/
