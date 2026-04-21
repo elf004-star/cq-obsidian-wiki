@@ -1,4 +1,13 @@
 ---
+title: 中华人民共和国香港特别行政区基本法
+created: 2026-04-21
+type: raw-article
+tags: [宪法相关法, 香港, 一国两制, 基本法律]
+sources: [entities/hk-basic-law.md]
+source_url: "http://www.npc.gov.cn/npc/c34354/xgjbfwyh/xgjbfwyh002/xgjbfwyh004/xgjbfwyh023/202408/t20240828_438872.html"
+effective_date: 1997-07-01
+amendment_date: 2021-03-30
+---
 
 **来源**: 中国人大网 (npc.gov.cn)
 **原始链接**: http://www.npc.gov.cn/npc/c34354/xgjbfwyh/xgjbfwyh002/xgjbfwyh004/xgjbfwyh023/202408/t20240828_438872.html

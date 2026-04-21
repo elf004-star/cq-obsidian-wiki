@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国个人所得税法
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/individual-income-tax-law.md]]
+---
+
 # 中华人民共和国个人所得税法
 
 **来源**: 国家税务总局政策法规库

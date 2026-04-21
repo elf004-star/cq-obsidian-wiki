@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国香港特别行政区基本法
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[entities/hk-basic-law.md]]
+---
+
 # 中华人民共和国香港特别行政区基本法
 
 **来源**: 中央政府驻港联络办

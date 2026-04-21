@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国反不正当竞争法
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/anti-unfair-competition-law.md]]
+---
+
 # 中华人民共和国反不正当竞争法
 
 **来源**: 最高人民检察院门户网

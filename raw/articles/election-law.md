@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国全国人民代表大会和地方各级人民代表大会选举法
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/election-law.md]]
+---
+
 # 中华人民共和国全国人民代表大会和地方各级人民代表大会选举法
 
 **来源**: 国家信访局门户网站

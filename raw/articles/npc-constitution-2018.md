@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国宪法
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/constitution.md]]
+---
+
 # 中华人民共和国宪法
 
 **来源**: 中国人大网 (http://www.npc.gov.cn)  

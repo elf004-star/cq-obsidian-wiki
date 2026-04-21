@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国著作权法（2020修正）
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/copyright-law.md]]
+---
+
 # 中华人民共和国著作权法（2020修正）
 
 **来源**: 中国保护知识产权网 (ipr.mofcom.gov.cn)  

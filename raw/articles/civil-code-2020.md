@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国民法典（全文概要）
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/civil-code.md]]
+---
+
 # 中华人民共和国民法典（全文概要）
 
 **来源**: 司法部/新华网  

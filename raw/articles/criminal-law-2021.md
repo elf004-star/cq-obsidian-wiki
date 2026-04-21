@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国刑法（2021年版）
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/criminal-law.md]]
+---
+
 # 中华人民共和国刑法（2021年版）
 
 **来源**: 国家税务总局政策法规库 (chinatax.gov.cn) + 最高人民检察院门户网 (spp.gov.cn) + China Law Translate (chinalawtranslate.com)

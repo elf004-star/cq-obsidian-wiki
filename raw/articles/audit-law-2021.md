@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国审计法
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/audit-law.md]]
+---
+
 # 中华人民共和国审计法
 
 **来源**: 审计署官方网站

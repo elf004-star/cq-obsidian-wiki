@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国消费者权益保护法实施条例
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/consumer-protection-law.md]]
+---
+
 # 中华人民共和国消费者权益保护法实施条例
 
 **文件编号：** 国务院令第778号  

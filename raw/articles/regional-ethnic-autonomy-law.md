@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国民族区域自治法
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/regional-ethnic-autonomy-law.md]]
+---
+
 # 中华人民共和国民族区域自治法
 
 **来源**: 国家信访局门户网站

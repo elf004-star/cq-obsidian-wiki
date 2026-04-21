@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国刑法（2020年修正版）
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/criminal-law.md]]
+---
+
 # 中华人民共和国刑法（2020年修正版）
 
 **来源**: 用户提供的官方 docx 文档（2020年12月26日第十三届全国人大常委会通过）

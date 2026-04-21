@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国土地管理法
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/land-administration-law.md]]
+---
+
 # 中华人民共和国土地管理法
 
 **来源**: 中华人民共和国生态环境部官网

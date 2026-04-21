@@ -1,3 +1,12 @@
+---
+title: 中华人民共和国公司法（2023年修订版）
+created: 2026-04-21
+updated: 2026-04-21
+type: raw-article
+tags: [基本法律]
+sources: [[concepts/company-law.md]]
+---
+
 # 中华人民共和国公司法（2023年修订版）
 
 **来源**: 国家税务总局政策法规库  
