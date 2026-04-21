@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面按类型分类并附一行摘要。
 > 阅读此文件以查找与任何查询相关的页面。
-> Last updated: 2026-04-14 | Total pages: 22
+> Last updated: 2026-04-21 | Total pages: 23
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -15,18 +15,19 @@
 
 ## Concepts
 <!-- 按字母顺序排列 -->
-- [[citizens-basic-rights]] — 公民基本权利与义务（政治、人身、社会经济权利）
 - [[anti-unfair-competition-law]] — 中华人民共和国反不正当竞争法，2025年修订，市场竞争秩序基本法律
-- [[civil-code]] — 中华人民共和国民法典，7编1260条，中国第一部法典
 - [[audit-law]] — 中华人民共和国审计法，2021年修正，审计监督基本法律
+- [[citizens-basic-rights]] — 公民基本权利与义务（政治、人身、社会经济权利）
+- [[civil-code]] — 中华人民共和国民法典，7编1260条，中国第一部法典
 - [[company-law]] — 中华人民共和国公司法，2023年修订，公司组织与行为基本法律
 - [[constitution]] — 中华人民共和国宪法，国家根本法，最高法律效力
 - [[consumer-protection-law]] — 消费者权益保护法实施条例，2024年施行
 - [[copyright-law]] — 中华人民共和国著作权法，2020年修正，知识产权基本法律
+- [[criminal-law]] — 中华人民共和国刑法，1997年修订/2021年修正案十一，2编452条，中国第一部系统刑法典
 - [[election-law]] — 全国人民代表大会和地方各级人民代表大会选举法（1979年，5次修正）
 - [[individual-income-tax-law]] — 中华人民共和国个人所得税法，2018年修正，7级超额累进税率
-- [[legal-system-hierarchy]] — 中国法律体系层级（宪法→基本法律→行政法规→地方性法规）
 - [[land-administration-law]] — 中华人民共和国土地管理法，2019年修正，土地管理基本法律
+- [[legal-system-hierarchy]] — 中国法律体系层级（宪法→基本法律→行政法规→地方性法规）
 - [[procuratorate-system]] — 检察系统，各级人民检察院组成的完整法律监督体系
 - [[regional-ethnic-autonomy-law]] — 民族区域自治法，少数民族聚居区区域自治基本法律（1984年）
 - [[trademark-law]] — 中华人民共和国商标法，2019年修正，商标专用权保护基本法律
@@ -53,3 +54,4 @@
 - raw/articles/hk-basic-law.md — 中华人民共和国香港特别行政区基本法（1990年），来源：中央政府驻港联络办
 - raw/articles/regional-ethnic-autonomy-law.md — 中华人民共和国民族区域自治法（1984年，2001年修正），来源：国家信访局门户网站
 - raw/articles/state-council-organic-law-2024.md — 中华人民共和国国务院组织法（2024年修订），来源：China Law Translate / 中国政府网
+- raw/articles/criminal-law-2021.md — 中华人民共和国刑法（2021年版），来源：国家税务总局政策法规库 + 最高人民检察院 + China Law Translate

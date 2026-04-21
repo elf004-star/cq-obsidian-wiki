@@ -63,3 +63,9 @@
 - Updated: index.md（Entities + Concepts 板块）
 - Updated: log.md
 
+
+## [2026-04-21] ingest | 刑法 — 中华人民共和国刑法
+- 收录 raw/articles/criminal-law-2021.md（来源：国家税务总局政策法规库 + 最高人民检察院 + China Law Translate）
+- 创建 concepts/criminal-law.md（概念页：总则+分则结构+重要罪名）
+- 更新 index.md（新增 criminal-law 条目）、log.md
+- 刑法共计2编15章452条，经11个修正案修正（最新为2021年刑法修正案十一）
