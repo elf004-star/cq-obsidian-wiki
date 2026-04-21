@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: entity
 tags: [entity, constitution, hksar, one-country-two-systems, basic-law]
-sources: [raw/articles/hk-basic-law.md]
+sources: [raw/articles/hk-basic-law.md, raw/articles/hk-basic-law-full.md]
 ---
 
 # 香港特别行政区基本法

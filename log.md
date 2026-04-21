@@ -74,3 +74,8 @@
 - 新增 raw/articles/criminal-law-2020.md（来源：用户提供的官方 docx 文档，2020年12月26日第十三届全国人大常委会通过，含刑法修正案十一全文）
 - 更新 concepts/criminal-law.md 的 sources 列表
 - 文档总计约74,000字，包含完整总则和分则全文
+
+## [2026-04-21] ingest | 香港特别行政区基本法（完整全文）— 中国人大网
+- 新增 raw/articles/hk-basic-law-full.md（来源：中国人大网 npc.gov.cn，2024年8月发布，完整160条正文 + 目录）
+- 更新 entities/hk-basic-law.md 的 sources 列表，加入完整全文版本
+- 原文文件保留在 raw/中华人民共和国香港特别行政区基本法_中国人大网.md（作为备份来源记录）
