@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [刑法, 刑事法律, 基本法律, 犯罪与刑罚]
-sources: [raw/articles/criminal-law-2021.md]
+sources: [raw/articles/criminal-law-2021.md, raw/articles/criminal-law-2020.md]
 ---
 
 # 中华人民共和国刑法
