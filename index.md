@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面按类型分类并附一行摘要。
 > 阅读此文件以查找与任何查询相关的页面。
-> Last updated: 2026-04-22 | Total pages: 24
+> Last updated: 2026-04-22 | Total pages: 25
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -25,6 +25,7 @@
 - [[consumer-protection-law]] — 消费者权益保护法实施条例，2024年施行
 - [[copyright-law]] — 中华人民共和国著作权法，2020年修正，知识产权基本法律
 - [[criminal-law]] — 中华人民共和国刑法，1997年修订/2021年修正案十一，2编452条，中国第一部系统刑法典
+- [[criminal-procedure-law]] — 中华人民共和国刑事诉讼法，2018年修正，5编290条，刑案程序基本法律
 - [[election-law]] — 全国人民代表大会和地方各级人民代表大会选举法（1979年，5次修正）
 - [[individual-income-tax-law]] — 中华人民共和国个人所得税法，2018年修正，7级超额累进税率
 - [[land-administration-law]] — 中华人民共和国土地管理法，2019年修正，土地管理基本法律

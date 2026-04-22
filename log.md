@@ -80,6 +80,11 @@
 - 更新 entities/hk-basic-law.md 的 sources 列表，加入完整全文版本
 - 原文文件保留在 raw/中华人民共和国香港特别行政区基本法_中国人大网.md（作为备份来源记录）
 
+## [2026-04-22] ingest | 刑事诉讼法 — 中华人民共和国刑事诉讼法
+- 新增 raw/articles/criminal-procedure-law-2025.md（来源：中国人大网，2018年修正版）
+- 创建 concepts/criminal-procedure-law.md（概念页：5编结构/公检法分工/五种特别程序）
+- 更新 index.md（新增 criminal-procedure-law 条目）、log.md
+
 ## [2026-04-22] ingest | 仲裁法 — 中华人民共和国仲裁法
 - 新增 raw/articles/arbitration-law-2025.md（来源：中国人大网，2025年9月修订，2025年10月施行）
 - 创建 concepts/arbitration-law.md（概念页：8章/一裁终局/仲裁协议/仲裁员资格/在线仲裁）
