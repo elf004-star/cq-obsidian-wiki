@@ -3,7 +3,7 @@ title: 最高人民检察院
 created: 2026-04-13
 updated: 2026-04-13
 type: entity
-tags: [entity, procuratorate, prosecution, legal-supervision]
+tags: [procuratorate, prosecution, legal-supervision]
 sources: [raw/articles/npc-constitution-2018.md]
 ---
 

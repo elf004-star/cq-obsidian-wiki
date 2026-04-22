@@ -3,7 +3,7 @@ title: 全国人民代表大会
 created: 2026-04-13
 updated: 2026-04-13
 type: entity
-tags: [entity, government, legislature, supreme-power]
+tags: [government, legislature, supreme-power, state-power]
 sources: [raw/articles/npc-constitution-2018.md]
 ---
 

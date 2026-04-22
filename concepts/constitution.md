@@ -59,3 +59,5 @@ sources: [raw/articles/npc-constitution-2018.md]
 - [[legal-system-hierarchy]] — 中国法律体系层级
 - [[citizens-basic-rights]] — 公民基本权利与义务
 - [[national-people-congress]] — 全国人民代表大会
+- [[criminal-law]] — 刑法规定了犯罪与刑罚，是宪法的下位基本法律
+- [[copyright-law]] — 宪法保障公民的知识产权，著作权法是知识产权基本法律

@@ -66,3 +66,4 @@ sources: [raw/articles/civil-code-2020.md]
 - [[constitution]] — 宪法是民法典的上位法
 - [[legal-system-hierarchy]] — 民法典在中国法律体系中的位置
 - [[citizens-basic-rights]] — 民法典与人格权保护
+- [[copyright-law]] — 知识产权（著作权、商标权）为民法典人格权编的重要组成

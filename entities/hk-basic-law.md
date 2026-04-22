@@ -3,7 +3,7 @@ title: 中华人民共和国香港特别行政区基本法
 created: 2026-04-14
 updated: 2026-04-14
 type: entity
-tags: [entity, constitution, hksar, one-country-two-systems, basic-law]
+tags: [hksar, one-country-two-systems, basic-law, constitutional-law, government]
 sources: [raw/articles/hk-basic-law.md, raw/articles/hk-basic-law-full.md]
 ---
 

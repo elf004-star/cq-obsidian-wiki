@@ -3,7 +3,7 @@ title: 国家监察委员会
 created: 2026-04-14
 updated: 2026-04-14
 type: entity
-tags: [entity, supervision, anti-corruption, state-power]
+tags: [supervision, anti-corruption, state-power]
 sources: [raw/articles/npc-constitution-2018.md]
 ---
 

@@ -3,7 +3,7 @@ title: 国务院
 created: 2026-04-13
 updated: 2026-04-14
 type: entity
-tags: [entity, government, executive, administration]
+tags: [government, executive, administration]
 sources: [raw/articles/npc-constitution-2018.md, raw/articles/state-council-organic-law-2024.md]
 ---
 

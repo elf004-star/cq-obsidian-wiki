@@ -24,14 +24,50 @@ sources: [raw/articles/source-name.md]
 ```
 
 ## Tag Taxonomy
-法律咨询 wiki 的标签分类（使用前须先在此定义）：
+法律咨询 wiki 的标签分类（使用前须先在此定义）。标签须全部小写。
 
-- **法域分类**：民法、刑法、行政法、商法、劳动法、知识产权法、婚姻家庭法
-- **实体类型**：person（自然人）、company（企业法人）、government（政府机构）、court（法院）、law-firm（律所）
-- **概念术语**：right（权利）、obligation（义务）、liability（责任）、contract（合同）、crime（犯罪）、tort（侵权）
-- **程序类型**：litigation（诉讼）、arbitration（仲裁）、mediation（调解）、negotiation（谈判）
-- **文书类型**：判决书、裁定书、调解书、合同、协议、律师函
-- **元标签**：comparison（对比分析）、timeline（时间线）、case-study（案例）、faq（常见问题）、dispute（争议）
+### 法域分类
+- **民法**、**刑法**、行政法、**商法**、劳动法、**知识产权法**、婚姻家庭法
+- **基本法律**：全国人大制定，效力仅次于宪法（如公司法、刑法、民法典等）
+- **行政法规**：国务院根据宪法和法律制定的行政法规
+- **法典**：重要法典（如民法典）
+- **刑事法律**：刑法及相关法律
+- **犯罪与刑罚**：刑法核心概念
+- **公司法**（公司组织与行为的法律规范）、**公司**（公司相关概念）、**商标**（商标专用权）、**著作权**（知识产权中的著作权）
+- **消费者权益**：消费者权益保护相关法律
+- **个人所得税**：个人所得税法相关概念
+- **个人所得税法**、**居民纳税人**、**非居民纳税人**
+- **土地管理**：土地管理法相关概念
+- **individual-income-tax**（个人所得税）、**resident-tax**（居民纳税人）、**non-resident-tax**（非居民纳税人）
+- **npc**（全国人民代表大会）、**rule-of-law**（法治）
+
+### 实体类型
+- person（自然人）、company（企业法人）、**government**（政府机构）、**court**（法院）、law-firm（律所）
+- **legislature**（立法机关）、**administration**（行政机关）、**executive**（行政首长/执行）、**supervision**（监察机关）、**state-power**（国家权力机关）、**supreme-power**（最高权力机关）
+- **judiciary**（审判机关）、**adjudication**（审判活动）
+- **entity**（通用实体标签，用于不便分类的机构实体）
+
+### 概念术语
+- right（权利）、obligation（义务）、liability（责任）、contract（合同）、**crime**（犯罪）、tort（侵权）
+- **constitutional-law**（宪法相关）、**fundamental-law**（根本法）、**legal-hierarchy**（法律层级）
+- **administrative-law**（行政法）、**commercial-law**（商法）、**tax-law**（税法）
+- **civil-rights**（公民权利）、**minority-rights**（少数民族权利）、**suffrage**（选举权）
+- **anti-corruption**（反腐败）、**legal-supervision**（法律监督）、**procuratorate**（检察）、**prosecution**（公诉）
+- **litigation**（诉讼）、**adjudication**（审判）、**fiscal-supervision**（财政监督）
+- **electoral-law**（选举法）、**local-peoples-congress**（地方人大）
+- **land-management**（土地管理）、**farmland-protection**（耕地保护）、**land-expropriation**（土地征收）、**rural-land**（农村土地）
+- **trade-secret**（商业秘密）、**commercial-bribery**（商业贿赂）、**fair-competition**（公平竞争）、**anti-unfair-competition**（反不正当竞争）
+- **state-owned-assets**（国有资产）、**audit-law**（审计法）
+- **ethnic-autonomy**（民族自治）、**autonomous-region**（自治区）
+- **hksar**（香港特别行政区）、**one-country-two-systems**（一国两制）、**basic-law**（基本法）
+
+### 文书类型
+- 判决书、裁定书、调解书、合同、协议、律师函
+
+### 元标签
+- **type:entity**（实体页）、**type:concept**（概念页）、**type:comparison**（对比分析）、**type:query**（查询结果）
+- **concept**（概念页类型标签）、**entity**（实体页类型标签）
+- comparison（对比分析）、timeline（时间线）、case-study（案例）、faq（常见问题）、dispute（争议）
 
 ## Page Thresholds
 - **创建页面**：某实体/概念在 2+ 来源中出现，或在一个来源中处于核心位置
