@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面按类型分类并附一行摘要。
 > 阅读此文件以查找与任何查询相关的页面。
-> Last updated: 2026-04-22 | Total pages: 28
+> Last updated: 2026-04-22 | Total pages: 29
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -15,6 +15,7 @@
 
 ## Concepts
 <!-- 按字母顺序排列 -->
+- [[administrative-procedure-law]] — 中华人民共和国行政诉讼法，2017年修正，行政行为合法性审查，"民告官"程序法
 - [[anti-unfair-competition-law]] — 中华人民共和国反不正当竞争法，2025年修订，市场竞争秩序基本法律
 - [[anti-monopoly-law]] — 中华人民共和国反垄断法，2022年修正，垄断协议/市场支配地位/经营者集中规制
 - [[arbitration-law]] — 中华人民共和国仲裁法，2025年修订，一裁终局经济纠纷解决机制
