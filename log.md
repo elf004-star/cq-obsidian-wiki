@@ -79,3 +79,10 @@
 - 新增 raw/articles/hk-basic-law-full.md（来源：中国人大网 npc.gov.cn，2024年8月发布，完整160条正文 + 目录）
 - 更新 entities/hk-basic-law.md 的 sources 列表，加入完整全文版本
 - 原文文件保留在 raw/中华人民共和国香港特别行政区基本法_中国人大网.md（作为备份来源记录）
+
+## [2026-04-22] lint | Wiki 健康审查 — 全部问题归零
+- 初始问题：87个（81个非法标签 + 6个孤立页面）
+- 扩展 SCHEMA.md Tag Taxonomy：从~30个标签增至63个，覆盖所有实际使用的标签
+- 规范化6个 entity 页面的 frontmatter 标签
+- 从3个 hub 页面（legal-system-hierarchy、civil-code、constitution）添加 inbound 链接，消除6个孤立页面
+- 最终结果：断链0、孤立0、Frontmatter问题0、Index完整、超大页面0
