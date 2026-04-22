@@ -1,5 +1,5 @@
 ---
-title: "国家税务总局政策法规库"
+title: "中华人民共和国企业破产法"
 source: "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193017/content.html"
 author:
 published:

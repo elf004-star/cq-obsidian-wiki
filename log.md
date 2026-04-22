@@ -80,6 +80,11 @@
 - 更新 entities/hk-basic-law.md 的 sources 列表，加入完整全文版本
 - 原文文件保留在 raw/中华人民共和国香港特别行政区基本法_中国人大网.md（作为备份来源记录）
 
+## [2026-04-22] ingest | 企业破产法 — 中华人民共和国企业破产法
+- 新增 raw/articles/state-taxation-regulations.md（来源：国家税务总局政策法规库，实际内容为企业破产法，2006年）；标题已更正
+- 创建 concepts/bankruptcy-law.md（概念页：重整/和解/破产清算三程序/管理人制度/职工债权保护/域外效力）
+- 更新 index.md（新增 bankruptcy-law 条目）、log.md
+
 ## [2026-04-22] ingest | 行政诉讼法 — 中华人民共和国行政诉讼法
 - 新增 raw/articles/administrative-procedure-law-2025.md（来源：中国人大网，2017年修正版）
 - 创建 concepts/administrative-procedure-law.md（概念页：10章/合法性审查/举证责任倒置/与行政复议关系）
