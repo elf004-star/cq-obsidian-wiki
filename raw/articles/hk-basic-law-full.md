@@ -1,27 +1,17 @@
 ---
-title: 中华人民共和国香港特别行政区基本法
+title: "中华人民共和国香港特别行政区基本法_中国人大网"
+source: "http://www.npc.gov.cn/npc/c34354/xgjbfwyh/xgjbfwyh002/xgjbfwyh004/xgjbfwyh023/202408/t20240828_438872.html"
+author:
+published:
 created: 2026-04-21
-type: raw-article
-tags: [宪法相关法, 香港, 一国两制, 基本法律]
-sources: [entities/hk-basic-law.md]
-source_url: "http://www.npc.gov.cn/npc/c34354/xgjbfwyh/xgjbfwyh002/xgjbfwyh004/xgjbfwyh023/202408/t20240828_438872.html"
-effective_date: 1997-07-01
-amendment_date: 2021-03-30
----
-
-**来源**: 中国人大网 (npc.gov.cn)
-**原始链接**: http://www.npc.gov.cn/npc/c34354/xgjbfwyh/xgjbfwyh002/xgjbfwyh004/xgjbfwyh023/202408/t20240828_438872.html
-**通过日期**: 1990年4月4日（第七届全国人民代表大会第三次会议）
-**施行日期**: 1997年7月1日
-**修订**: 2021年附件一、附件二修订
-
+description:
+tags:
+  - "clippings"
 ---
 
 ## 中华人民共和国香港特别行政区基本法
 
-### （1990年4月4日第七届全国人民代表大会第三次会议通过　1990年4月4日中华人民共和国主席令第二十六号公布　自1997年7月1日起实施）
-
-**来源**: 中国人大网 浏览字号： [大](#) [中](#) [小](#) 1990年04月04日 19:49
+（1990年4月4日第七届全国人民代表大会第三次会议通过　1990年4月4日中华人民共和国主席令第二十六号公布　自1997年7月1日起实施）
 
 目　　录
 
@@ -740,5 +730,3 @@ amendment_date: 2021-03-30
 编 辑： 夏红真
 
 责 编： 于浩
-
-<iframe src="http://www.npc.gov.cn/npc/c191/c12481/c22235/" width="272" height="900" frameborder="0"></iframe><iframe src="http://www.npc.gov.cn/npc/c191/c12481/c12453/index.shtml" width="100%" height="110" frameborder="0"></iframe>按回车键在新窗口打开无障碍说明页面,按Ctrl+~键打开导盲模式。

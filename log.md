@@ -80,6 +80,11 @@
 - 更新 entities/hk-basic-law.md 的 sources 列表，加入完整全文版本
 - 原文文件保留在 raw/中华人民共和国香港特别行政区基本法_中国人大网.md（作为备份来源记录）
 
+## [2026-04-22] ingest | 仲裁法 — 中华人民共和国仲裁法
+- 新增 raw/articles/arbitration-law-2025.md（来源：中国人大网，2025年9月修订，2025年10月施行）
+- 创建 concepts/arbitration-law.md（概念页：8章/一裁终局/仲裁协议/仲裁员资格/在线仲裁）
+- 更新 index.md（新增 arbitration-law 条目）、log.md
+
 ## [2026-04-22] lint | Wiki 健康审查 — 全部问题归零
 - 初始问题：87个（81个非法标签 + 6个孤立页面）
 - 扩展 SCHEMA.md Tag Taxonomy：从~30个标签增至63个，覆盖所有实际使用的标签

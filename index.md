@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面按类型分类并附一行摘要。
 > 阅读此文件以查找与任何查询相关的页面。
-> Last updated: 2026-04-21 | Total pages: 23
+> Last updated: 2026-04-22 | Total pages: 24
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -16,6 +16,7 @@
 ## Concepts
 <!-- 按字母顺序排列 -->
 - [[anti-unfair-competition-law]] — 中华人民共和国反不正当竞争法，2025年修订，市场竞争秩序基本法律
+- [[arbitration-law]] — 中华人民共和国仲裁法，2025年修订，一裁终局经济纠纷解决机制
 - [[audit-law]] — 中华人民共和国审计法，2021年修正，审计监督基本法律
 - [[citizens-basic-rights]] — 公民基本权利与义务（政治、人身、社会经济权利）
 - [[civil-code]] — 中华人民共和国民法典，7编1260条，中国第一部法典
