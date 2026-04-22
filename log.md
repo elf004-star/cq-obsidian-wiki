@@ -1,9 +1,15 @@
 # Wiki Log
 
->  chronological record of all wiki actions. Append-only.
+> chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
+
+## [2026-04-22] query | 张三醉驾致死逃逸案法律分析
+- Query: 张三醉驾致女生死亡后逃逸并自首，应如何判刑
+- 分析报告已保存: queries/zhangsan-drunk-driving-fatality-analysis.md
+- 引用法条: 刑法第133条（交通肇事罪）、第133条之一（危险驾驶罪）、第67条（自首）
+- 初步结论: 以交通肇事罪论处，可能3年以下至3-7年有期徒刑，自首可从轻或减轻
 
 ## [2026-04-13] create | Wiki initialized
 - Domain: 法律咨询（Legal Consultation）

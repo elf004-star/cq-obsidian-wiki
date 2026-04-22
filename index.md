@@ -44,6 +44,7 @@
 
 ## Queries
 <!-- 按字母顺序排列 -->
+- [[zhangsan-drunk-driving-fatality-analysis]] — 张三醉驾致女生死亡逃逸案法律分析报告，涉及交通肇事罪、危险驾驶罪、自首等罪名分析
 
 ## Raw Sources
 <!-- 归档的原始来源索引 -->
