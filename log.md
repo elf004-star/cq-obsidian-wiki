@@ -80,6 +80,11 @@
 - 更新 entities/hk-basic-law.md 的 sources 列表，加入完整全文版本
 - 原文文件保留在 raw/中华人民共和国香港特别行政区基本法_中国人大网.md（作为备份来源记录）
 
+## [2026-04-22] ingest | 民事诉讼法 — 中华人民共和国民事诉讼法
+- 新增 raw/articles/civil-procedure-law.md（来源：司法部官网，2017年修正版）
+- 创建 concepts/civil-procedure-law.md（概念页：3编结构/证据制度/调解保全/两审终审/与刑诉法比较）
+- 更新 index.md（新增 civil-procedure-law 条目）、log.md
+
 ## [2026-04-22] ingest | 合伙企业法 — 中华人民共和国合伙企业法
 - 新增 raw/articles/partnership-law.md（来源：国家市场监督管理总局，2006年修订）
 - 创建 concepts/partnership-law.md（概念页：普通合伙/有限合伙/特殊普通合伙/税务穿透/与公司法比较）
