@@ -80,6 +80,11 @@
 - 更新 entities/hk-basic-law.md 的 sources 列表，加入完整全文版本
 - 原文文件保留在 raw/中华人民共和国香港特别行政区基本法_中国人大网.md（作为备份来源记录）
 
+## [2026-04-22] ingest | 反垄断法 — 中华人民共和国反垄断法
+- 新增 raw/articles/anti-monopoly-law.md（来源：国家市场监督管理总局，2022年修正）
+- 创建 concepts/anti-monopoly-law.md（概念页：三类垄断行为/2022修正要点/与反不正当竞争法关系）
+- 更新 index.md（新增 anti-monopoly-law 条目）、log.md
+
 ## [2026-04-22] ingest | 刑事诉讼法 — 中华人民共和国刑事诉讼法
 - 新增 raw/articles/criminal-procedure-law-2025.md（来源：中国人大网，2018年修正版）
 - 创建 concepts/criminal-procedure-law.md（概念页：5编结构/公检法分工/五种特别程序）
