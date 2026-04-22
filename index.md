@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面按类型分类并附一行摘要。
 > 阅读此文件以查找与任何查询相关的页面。
-> Last updated: 2026-04-22 | Total pages: 26
+> Last updated: 2026-04-22 | Total pages: 27
 
 ## Entities
 <!-- 按字母顺序排列 -->
@@ -32,6 +32,7 @@
 - [[land-administration-law]] — 中华人民共和国土地管理法，2019年修正，土地管理基本法律
 - [[legal-system-hierarchy]] — 中国法律体系层级（宪法→基本法律→行政法规→地方性法规）
 - [[procuratorate-system]] — 检察系统，各级人民检察院组成的完整法律监督体系
+- [[partnership-law]] — 中华人民共和国合伙企业法，2006年修订，普通合伙（无限连带）/有限合伙（有限责任）
 - [[regional-ethnic-autonomy-law]] — 民族区域自治法，少数民族聚居区区域自治基本法律（1984年）
 - [[trademark-law]] — 中华人民共和国商标法，2019年修正，商标专用权保护基本法律
 
