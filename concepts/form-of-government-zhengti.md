@@ -213,6 +213,7 @@ valid_from: 1982-12-04
 - [[supreme-peoples-court]] — 由人大产生、受人大监督的审判机关
 - [[state-commission-supervision]] — 2018 年入宪，第三条第三款新增「监察机关」
 - [[regional-ethnic-autonomy-law]] — 国家结构形式中的民族区域自治
+- [[separation-of-powers]] — 分权制衡：本页的横向对照制度（人大制度的反向参照）
 - [[citizens-basic-rights]] — 政体运行的公民权利基础（选举权等）
 
 ## 来源
