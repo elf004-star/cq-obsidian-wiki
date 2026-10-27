@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面按类型分类并附一行摘要。
 > 阅读此文件以查找与任何查询相关的页面。
-> Last updated: 2026-10-27 | Total pages: 30
+> Last updated: 2026-10-27 | Total pages: 31
 >
 > 分层摘要规范（L0 索引 / L1 摘要 / L2 章节要点 / L3 细节）见 `SCHEMA.md`。
 > 时效核查清单：`_meta/staleness-watch.md`（开工前优先核对）。
@@ -40,6 +40,7 @@
 - [[procuratorate-system]] — 检察系统，各级人民检察院组成的完整法律监督体系
 - [[partnership-law]] — 中华人民共和国合伙企业法，2006年修订，普通合伙（无限连带）/有限合伙（有限责任）
 - [[regional-ethnic-autonomy-law]] — 民族区域自治法，少数民族聚居区区域自治基本法律（1984年）
+- [[state-nature-guoti]] — 国体与国家性质：工人阶级领导、工农联盟为基础的人民民主专政；含国体/政体/国家结构形式三分框架
 - [[trademark-law]] — 中华人民共和国商标法，2019年修正，商标专用权保护基本法律
 
 ## Comparisons
@@ -73,3 +74,5 @@
 - raw/articles/civil-procedure-law.md — 中华人民共和国民事诉讼法（2017年修正版），来源：司法部官网
 - raw/articles/administrative-procedure-law-2025.md — 中华人民共和国行政诉讼法（2017年修正版），来源：中国人大网
 - raw/articles/state-taxation-regulations.md — 中华人民共和国企业破产法（2006年），来源：国家税务总局政策法规库
+- raw/articles/mao-new-democracy-1940-guoti.md — 《新民主主义论》第五节国体／政体节选（1940年1月），来源：马克思主义文库
+- raw/articles/constitution-state-nature-evolution.md — 国体条款沿革对照（共同纲领／1954／1975／1978／1982），来源：全国政协官网、中国法学会、外交部

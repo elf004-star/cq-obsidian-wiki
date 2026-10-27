@@ -137,3 +137,12 @@
 - 新建 `_meta/staleness-watch.md`：5 条高优先级待核查 + 季度常规复查清单 + 核查方法
 - index.md 更新头部说明与日期；[[civil-procedure-law]] 标注 ⚠️ 时效待核查（页面为2017版，后续修正情况未核实）
 
+## [2026-10-27] ingest | 国体与国家性质（首篇四域全开页面）
+- 新增 raw/articles/mao-new-democracy-1940-guoti.md — 《新民主主义论》第五节节选（马克思主义文库），含国体/政体定义原文
+- 新增 raw/articles/constitution-state-nature-evolution.md — 国体条款沿革对照：共同纲领（1949）／1954／1975／1978／1982，逐条来源标注
+- 创建 concepts/state-nature-guoti.md — 六章：概念出处／宪法第一条四要素／三分框架／人民民主专政两面性／表述沿革／开放问题
+- 更新 concepts/constitution.md — 补分层摘要与全部章节 ### 要点，新增国体链接、条款数（143条）、修正案要点细化
+- 更新 index.md（新增 state-nature-guoti + 两条 raw sources，Total pages 30→31）、log.md
+- 核实结论：宪法第一条、第二条原文经外交部官网 + 香港基本法网站双源比对一致；2018修宪新增党的领导入第一条第二款属实
+- 遗留待核：1978年宪法第一条逐字原文未与官方数据库全文比对，已在 raw 文件标注 `[待逐字核验]`
+
