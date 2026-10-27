@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面按类型分类并附一行摘要。
 > 阅读此文件以查找与任何查询相关的页面。
-> Last updated: 2026-10-27 | Total pages: 33
+> Last updated: 2026-10-27 | Total pages: 34
 >
 > 分层摘要规范（L0 索引 / L1 摘要 / L2 章节要点 / L3 细节）见 `SCHEMA.md`。
 > 时效核查清单：`_meta/staleness-watch.md`（开工前优先核对）。
@@ -43,6 +43,7 @@
 - [[regional-ethnic-autonomy-law]] — 民族区域自治法，少数民族聚居区区域自治基本法律（1984年）
 - [[state-nature-guoti]] — 国体与国家性质：工人阶级领导、工农联盟为基础的人民民主专政；含国体/政体/国家结构形式三分框架
 - [[separation-of-powers]] — 权力分立（三权分立）：非一人发明；亚里士多德职能三分→孟德斯鸠「以权力制约权力」→美国制度化；英国本土实为融合而非分权；优缺点与中国不采用的理由
+- [[supervision-system-china]] — 人大监督体系（纵向监督）：宪法依据＋监督法2024修正9章65条；九级强度阶梯（听取报告→撤职案）；三个真实限度
 - [[trademark-law]] — 中华人民共和国商标法，2019年修正，商标专用权保护基本法律
 
 ## Comparisons
@@ -80,3 +81,5 @@
 - raw/articles/constitution-state-nature-evolution.md — 国体条款沿革对照（共同纲领／1954／1975／1978／1982），来源：全国政协官网、中国法学会、外交部
 - raw/articles/constitution-chapter1-general-principles.md — 宪法第一章总纲第一条至第五条原文（2018年修正后文本），来源：香港律政司基本法网站
 - raw/articles/separation-of-powers-primary-texts.md — 权力分立学说关键文本辑录：孟德斯鸠法文原版、联邦党人文集第47/51/78篇、白芝浩《英国宪政》，来源：Project Gutenberg
+- raw/articles/oversight-law-2024.md — 各级人大常委会监督法（2024年修正，9章65条）全文摘录 + 2006版章节对照，来源：国家法律法规数据库、共产党员网
+- raw/articles/constitution-chapter3-state-organs.md — 宪法第三章国家机构监督权相关条文（第六十二、六十三、六十七、七十一、七十三、一百零四条），来源：香港律政司基本法网站

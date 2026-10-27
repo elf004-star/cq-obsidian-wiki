@@ -266,6 +266,7 @@ layer: overview
 - [[state-nature-guoti]] — 国体：政体选择的阶级基础论证
 - [[constitution]] — 中国宪法中的权力配置（第二、三条）
 - [[national-people-congress]] — 中国的「最高权力机关」与分权制的根本差别
+- [[supervision-system-china]] — 中国的替代机制：纵向监督体系（监督法七种手段）
 - [[supreme-peoples-court]] — 中国法院的地位：由人大产生、对人大负责（无司法审查权）
 - [[legal-system-hierarchy]] — 法律层级与违宪审查机制的中西差异
 

@@ -145,6 +145,7 @@ wiki 是一本**活页笔记本**：随时可插入新活页、随时把过时�
 ### 政治与制度
 - **political-system**、**political-institution**、**state-structure**、**comparative-politics**
 - **political-party**、**election**、**legislative-process**、**separation-of-powers**
+- **oversight**（监督／制约）、**accountability**（问责）、**transparency**（透明度）
 - **authoritarianism**、**democratization**、**political-economy**、**federalism**、**central-local-relations**
 
 ### 文书类型

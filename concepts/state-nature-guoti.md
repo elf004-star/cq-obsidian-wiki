@@ -195,6 +195,7 @@ valid_from: 1982-12-04
 ## 相关页面
 - [[form-of-government-zhengti]] — 政体：政权组织形式（国体的对应面，人民代表大会制度）
 - [[separation-of-powers]] — 权力分立：中国政体的对照制度（横向分权 vs 纵向监督）
+- [[supervision-system-china]] — 人大监督体系：纵向监督的宪法依据与监督法工具
 - [[constitution]] — 中华人民共和国宪法总览（国体条款的母文本）
 - [[national-people-congress]] — 政体的组织载体（人民代表大会）
 - [[citizens-basic-rights]] — 国体「民主面」的规范展开（宪法第二章）
