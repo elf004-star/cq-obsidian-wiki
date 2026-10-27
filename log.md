@@ -127,3 +127,13 @@
 - 规范化6个 entity 页面的 frontmatter 标签
 - 从3个 hub 页面（legal-system-hierarchy、civil-code、constitution）添加 inbound 链接，消除6个孤立页面
 - 最终结果：断链0、孤立0、Frontmatter问题0、Index完整、超大页面0
+
+## [2026-10-27] update | 建立 H博士 角色与两项核心机制
+- 定位：wiki 从「法律咨询」升级为「法律·政策·历史·政治」四域馆藏，服务长期学习与探讨
+- SCHEMA.md 重写：Domain 扩展；新增 Frontmatter 字段（digest / status / layer / valid_from / valid_until / supersedes / superseded_by）
+- SCHEMA.md 新增「分层摘要规范」：L0 索引行 → L1 页面摘要 → L2 章节要点 → L3 细节，先写摘要后写正文，超 200 行拆 overview + deep-dive
+- SCHEMA.md 新增「时效与下沉规则」：过时内容移入「历史沿革（已失效）」并标记 status: superseded，整页失效移入 `_archive/`
+- SCHEMA.md Tag Taxonomy 扩至政策（policy / governance / regulation）、历史（history / institutional-evolution）、政治（political-system / state-structure）三组
+- 新建 `_meta/staleness-watch.md`：5 条高优先级待核查 + 季度常规复查清单 + 核查方法
+- index.md 更新头部说明与日期；[[civil-procedure-law]] 标注 ⚠️ 时效待核查（页面为2017版，后续修正情况未核实）
+
