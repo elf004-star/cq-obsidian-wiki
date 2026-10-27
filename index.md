@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面按类型分类并附一行摘要。
 > 阅读此文件以查找与任何查询相关的页面。
-> Last updated: 2026-10-27 | Total pages: 31
+> Last updated: 2026-10-27 | Total pages: 32
 >
 > 分层摘要规范（L0 索引 / L1 摘要 / L2 章节要点 / L3 细节）见 `SCHEMA.md`。
 > 时效核查清单：`_meta/staleness-watch.md`（开工前优先核对）。
@@ -34,6 +34,7 @@
 - [[criminal-law]] — 中华人民共和国刑法，1997年修订/2021年修正案十一，2编452条，中国第一部系统刑法典
 - [[criminal-procedure-law]] — 中华人民共和国刑事诉讼法，2018年修正，5编290条，刑案程序基本法律
 - [[election-law]] — 全国人民代表大会和地方各级人民代表大会选举法（1979年，5次修正）
+- [[form-of-government-zhengti]] — 政体（政权组织形式）：中国政体为人民代表大会制度；政体两层次（机关来源＋机关关系）；民主集中制是组织原则而非政体
 - [[individual-income-tax-law]] — 中华人民共和国个人所得税法，2018年修正，7级超额累进税率
 - [[land-administration-law]] — 中华人民共和国土地管理法，2019年修正，土地管理基本法律
 - [[legal-system-hierarchy]] — 中国法律体系层级（宪法→基本法律→行政法规→地方性法规）
@@ -76,3 +77,4 @@
 - raw/articles/state-taxation-regulations.md — 中华人民共和国企业破产法（2006年），来源：国家税务总局政策法规库
 - raw/articles/mao-new-democracy-1940-guoti.md — 《新民主主义论》第五节国体／政体节选（1940年1月），来源：马克思主义文库
 - raw/articles/constitution-state-nature-evolution.md — 国体条款沿革对照（共同纲领／1954／1975／1978／1982），来源：全国政协官网、中国法学会、外交部
+- raw/articles/constitution-chapter1-general-principles.md — 宪法第一章总纲第一条至第五条原文（2018年修正后文本），来源：香港律政司基本法网站
